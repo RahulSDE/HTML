@@ -9,3 +9,4 @@
 8.  https://www.w3.org/
 9.  https://www.figma.com/ 
 10. https://cssgradient.io/
+11. https://www.w3schools.com/

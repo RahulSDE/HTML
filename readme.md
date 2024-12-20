@@ -26,7 +26,7 @@
 
 ### **DIFFERENT TYPES OF TAGS**
 
-#### **1) HEADING TAGS**
+### **1) HEADING TAGS**
 - 
     ```
         <h1> this is heading 1 </h1>
@@ -36,7 +36,7 @@
     ```
 - Used to put heading in the docs which is in bold colour.
 
-#### **2) PARAGRAPHS TAGS**
+### **2) PARAGRAPHS TAGS**
 - 
     ```
         <p> this is paragraph </p>
@@ -44,7 +44,7 @@
 - Used for paragraphs.
 - The text will be in normal colour.
 
-#### **3) LIST TAGS**
+### **3) LIST TAGS**
 - There are two types of list tags.
     ```
               List in HTML 
@@ -65,7 +65,7 @@
     ```
 - Used to put heading in the docs which is in bold colour.
 
-#### **4) IMAGE TAGS**
+### **4) IMAGE TAGS**
 -  Syntax:
     ```
         <img src= " " alt= " "/>
@@ -82,7 +82,7 @@ a tag which always put the              a tag which always put
 info of next tag in the                 the info of next tag 
 same line.                               int the new line. 
 ```
-#### **5) DIV TAGS**
+### **5) DIV TAGS**
 - Syntax
     ```
         <div>
@@ -96,7 +96,7 @@ same line.                               int the new line.
 - used to write the general statement mix with anything.
 - It is an block tag.
 
-#### **6) SPAN TAGS**
+### **6) SPAN TAGS**
 - Syntax
     ```
         <span> There is span1 </span>
@@ -105,8 +105,8 @@ same line.                               int the new line.
 - used to write the general statement mix with anything in the same line..
 - It is an inline tag.
 
-#### **7) AUDIO AND VIDEO TAGS**
-#### **8) MARQUEE TAGS**
+### **7) AUDIO AND VIDEO TAGS**
+### **8) MARQUEE TAGS**
 - webpage me line ko ek taraf se dusre taraf i.e. moving line create karne ke liye use hota hai.
 - Syntax:
     ```

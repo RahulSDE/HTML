@@ -2,6 +2,7 @@
 - `HTML` stands for **HYPER TEXT MARKUP LANGUAGE**.
     - `Hyper-Text` : A special type of text document in which you can put hyperlink of another text document.
     - `Markup Language` : Text-encoding system which specifies the structure and formatting of a document.
+
 - `HTML` - not a programming language. Anything to be called as a programming language must support the decision making (if, else etc.) which HTML doesn't support.
 - `HTML` provides the skeleton of a webpage.
 - Example of Markup language - **HTML, Markdown**.
